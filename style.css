@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    line-height: 1.7;
+}
+.social a i {
+    color: white;
+}
+.button a {
+    font-size: 13px;
+    
+}
+.home {
+    background-color: #316DC3;
+    border-radius: 25px;
+    color: white;
+}
+
+.hover a:hover {
+    background-color: #316DC3;
+    border-radius: 25x;
+    color: white;
+    border-radius: 30px;
+
+}
+.hover ul li {
+
+}
+.topbar , .marqee{
+    background-color: #316DC3;
+}
+
+.marqee-span,.counter  span{
+    color: rgb(0, 243, 0);  
+}
+span {
+    color: green;
+}
+.heading-three {
+    font-family: 'Times New Roman', Times, serif;
+    color: #316DC3 ;
+}
+.intro, .addrees {
+    color: #7f7f7f; 
+}
+.counter{
+    background-color: #2755e9 ;
+}
+.separator {
+    height: 3px;
+    width: 40px;
+    background-color: green;
+    display: inline-block; 
+}
+.first-column ,.second-column ,.third-column {
+    box-shadow: 0px  7px 20px rgb(214, 212, 212);
+    border: solid rgb(245, 243, 243);
+}
+.separator-two {
+    height: 3px;
+    width: 50px;
+    background-color: green;
+    display: inline-block;
+    
+}
+.mission-and-upcoming  {
+    color: #316dc3;
+}
+.separator-three {
+    background-color: rgb(223, 219, 219);
+    height: 1px;
+    width: 283px;
+    display: inline-block;
+  
+}
+.marqee-up { 
+    color:#7f7f7f ;
+}
+.four-box {
+    background-color: #f7f8fa;
+}
+.text-color h5, h2 {
+    color: #316dc3;
+    font-size: 19px;
+}
+@media only screen and ( max-width : 500px) {
+.sarim a img {
+    width: 330px;
+    height: 210px;   
+}
+}
+.sarim img {
+    width: 218px;
+    height: 150x;
+}
+.addrees i {
+    color: green;
+    font-size: 13px;
+}
+.addrees{
+    background-color: #25272e;
+    
+}
+.last-separator-three {
+    background-color: rgb(202, 195, 195);
+    height: 1px;
+    width: 30px;
+    
+}
+.last-separator-two {
+    height: 2px;
+    width: 40px;
+    background-color: green;
+   
+}
+ul li  {
+    text-decoration: none;
+    display: inline-block; 
+}
+.last-social-icon  li i {
+    color: rgb(7, 120, 250);
+    padding-left: 10px;
+    font-size: 23px;
+    margin-top: 2px;
+}
+.useful-link {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 22px;
+}
+.all-addrees {
+    color: rgb(207, 204, 204);
+    font-size: 15px;
+}
